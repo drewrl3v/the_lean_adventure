@@ -1,7 +1,7 @@
 # the_lean_adventure
 For adventuring in Lean.
 
-To install:
+To install (MacOS similar drill for Linux and Window, just check out the [releases](https://github.com/leanprover/lean4/releases/tag/v4.27.0)):
 
   wget https://github.com/leanprover/lean4/releases/download/v4.27.0/lean-4.27.0-darwin_aarch64.tar.zst
   tar --use-compress-program=unzstd -xvf lean-4.27.0-darwin_aarch64.tar.zst
