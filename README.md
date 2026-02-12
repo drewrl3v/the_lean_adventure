@@ -10,21 +10,21 @@ To install:
 
 To run:
 
-  ./lean-4.27.0-darwin_aarch64/bin/lean --run hello_world.lean
+    ./lean-4.27.0-darwin_aarch64/bin/lean --run hello_world.lean
 
 To Convert to c:
 
-  ./lean-4.27.0-darwin_aarch64/bin/lean hello_world.lean -c hello.c
+    ./lean-4.27.0-darwin_aarch64/bin/lean hello_world.lean -c hello.c
 
 To get the binary from c:
 
-  ./lean-4.27.0-darwin_aarch64/bin/leanc hello.c -o hello
+    ./lean-4.27.0-darwin_aarch64/bin/leanc hello.c -o hello
 
 Formatting and highlighting:
 
-  I prefer using vanilla vim, so check out my .vim config for syntax highlighting and symbols.
+    I prefer using vanilla vim, so check out my .vim config for syntax highlighting and symbols.
 
-  .vim/syntax
+    .vim/syntax
 
   .vim/ftdetect
 
