@@ -26,5 +26,5 @@ Formatting and highlighting:
 
     .vim/syntax
 
-  .vim/ftdetect
+    .vim/ftdetect
 
